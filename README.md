@@ -195,7 +195,9 @@ Privacy-first face recognition for Linux. GPU-accelerated (CUDA), liveness check
 ---
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RedEye1605.RedEye1605&left_text=Profile%20Views&left_color=0d1117&right_color=58a6ff" alt="Profile Views" />
+  <a href="https://github.com/RedEye1605">
+    <img src="https://hits.sh/github.com/RedEye1605.svg?style=for-the-badge&label=Profile+Views&color=58a6ff&labelColor=0d1117&edge_flat=true" alt="Profile Views" />
+  </a>
 </div>
 
 <!-- Footer -->
