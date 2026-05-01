@@ -98,8 +98,8 @@ Building intelligent tools that solve real problems 🚀
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-ebon-seven-76.vercel.app/api?username=RedEye1605&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-ebon-seven-76.vercel.app/api/top-langs/?username=RedEye1605&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8&card_width=320" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-ebon-seven-76.vercel.app/api?username=RedEye1605&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117&t=2026" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ebon-seven-76.vercel.app/api/top-langs/?username=RedEye1605&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8&card_width=320&t=2026" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
