@@ -53,13 +53,13 @@ Building intelligent tools that solve real problems 🚀
 <td width="50%">
 
 #### [Leksara](https://github.com/RedEye1605/Leksara)
-🇮🇩 Indonesian text preprocessing toolkit for E-commerce data. Automates punctuation removal, stopword filtering, and slang normalization. Built for Data Scientists & ML Engineers.
+🇮🇩 Indonesian text preprocessing toolkit for E-commerce data. Automates punctuation removal, stopword filtering, and slang normalization.
 
 </td>
 <td width="50%">
 
 #### [Task Router](https://github.com/RedEye1605/task-router)
-🎯 Unified task ingestion & prioritization engine. Consolidates tasks from Gmail, Calendar, Notion, and messaging into a single priority queue with smart scoring.
+🎯 Unified task ingestion & prioritization engine. Consolidates tasks from Gmail, Calendar, Notion, and messaging into a single priority queue.
 
 </td>
 </tr>
@@ -67,13 +67,13 @@ Building intelligent tools that solve real problems 🚀
 <td width="50%">
 
 #### [CrowdCounting](https://github.com/RedEye1605/CrowdCounting)
-👥 AI-powered crowd counting with P2PNet (VGG16 backbone). Includes Web UI, Gradio demo, Docker deployment, and fine-tuned head localization.
+👥 AI-powered crowd counting with P2PNet (VGG16 backbone). Web UI, Gradio demo, and Docker deployment.
 
 </td>
 <td width="50%">
 
 #### [Comp Starter](https://github.com/RedEye1605/comp-starter)
-🏆 One-command competition scaffold generator. Sets up data dirs, EDA notebooks, baseline models, and submission pipeline in seconds. Supports datathon, Kaggle, hackathon templates.
+🏆 One-command competition scaffold generator. Supports datathon, Kaggle, hackathon, and research templates.
 
 </td>
 </tr>
@@ -81,13 +81,13 @@ Building intelligent tools that solve real problems 🚀
 <td width="50%">
 
 #### [Knowledge Forge](https://github.com/RedEye1605/knowledge-forge)
-📖 Personal knowledge retention engine with spaced repetition (SM-2). Import from arXiv, Obsidian. Full-text search, review scheduling, and knowledge graph.
+📖 Personal knowledge retention engine with spaced repetition (SM-2). Import from arXiv, Obsidian, with full-text search.
 
 </td>
 <td width="50%">
 
 #### [Presence Greeter](https://github.com/RedEye1605/presence-greeter)
-👤 Privacy-first face recognition for Linux. Liveness check, auto-lock/unlock, GPU-accelerated (PyTorch+CUDA). Built for Fedora KDE Wayland.
+👤 Privacy-first face recognition for Linux. GPU-accelerated, liveness check, auto-lock/unlock for Fedora KDE Wayland.
 
 </td>
 </tr>
@@ -98,12 +98,13 @@ Building intelligent tools that solve real problems 🚀
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedEye1605&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RedEye1605&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-ebon-seven-76.vercel.app/api?username=RedEye1605&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-ebon-seven-76.vercel.app/api/top-langs/?username=RedEye1605&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&langs_count=8&card_width=320" height="170" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=RedEye1605&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="180" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=RedEye1605&locale=en&mode=daily&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=RedEye1605&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="170" alt="Trophies" />
 </div>
 
 ---
@@ -114,6 +115,16 @@ Building intelligent tools that solve real problems 🚀
 - 🏅 12th Place — Data Slayer 3.0 Telkom University (2025)
 - 🏅 Top 8 — Hology 8.0 UB Data Mining (2025)
 - 🏅 Top 20 — Compfest Academy UI (2024)
+
+---
+
+### 👾 My Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
