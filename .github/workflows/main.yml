@@ -1,9 +1,9 @@
-name: generate pacman game
+name: generate contribution graphs
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # Run automatically every 24 hours
-  workflow_dispatch:  # Allows manual triggering
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -13,16 +13,42 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
+      # Step 1: Checkout to get latest
+      - uses: actions/checkout@v4
+
+      # Step 2: Generate Pac-Man graph
       - name: generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: 'RedEye1605'  # Ganti dengan username GitHub Anda
+          github_user_name: ${{ github.repository_owner }}
 
-      # Push the generated SVG to the output branch
-      - name: push pacman-contribution-graph.svg to the output branch
+      # Step 3: Move pacman files to temp location
+      - name: save pacman files
+        run: |
+          mkdir -p /tmp/pacman
+          cp dist/pacman-contribution-graph.svg /tmp/pacman/ 2>/dev/null || true
+          cp dist/pacman-contribution-graph-dark.svg /tmp/pacman/ 2>/dev/null || true
+
+      # Step 4: Generate Snake
+      - name: generate github-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      # Step 5: Copy pacman files back into dist
+      - name: combine all graphs
+        run: |
+          cp /tmp/pacman/* dist/ 2>/dev/null || true
+          ls -la dist/
+
+      # Step 6: Push everything to output branch
+      - name: push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
