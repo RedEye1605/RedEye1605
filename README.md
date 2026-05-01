@@ -1,78 +1,124 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1E1E1E;">Hey 👋What's Up?</h1>
+<div align="center">
 
-###
+# Hi, I'm Rhendy 👋
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="50" alt="Python logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/pandas.png" height="50" alt="Pandas logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/numpy.png" height="50" alt="NumPy logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jupyter_notebook.png" height="50" alt="Jupyter Notebook logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" height="50" alt="Apache Spark logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="50" alt="Streamlit logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=r" height="60" alt="R logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="50" alt="MongoDB logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" height="50" alt="MariaDB logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="GitLab logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" height="50" alt="Dart logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" height="50" alt="Flutter logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="50" alt="React Native logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" height="50" alt="PHP logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php_(elephpant).png" height="50" alt="PHP Elephpant logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" height="50" alt="Laravel logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="50" alt="Streamlit logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="50" alt="Vite logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" height="50" alt="Figma logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="50" alt="HTML logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="50" alt="CSS logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="Notion logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" height="50" alt="Jira logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="50" alt="Visual Studio Code logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height="50" alt="REST logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" height="50" alt="HTTP logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify logo" style="transition: transform 0.3s;"/>
+**AI/ML Engineer** specializing in NLP & Computer Vision
+
+Building intelligent tools that solve real problems 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rhendy%20Saragih-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rhendy-saragih)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rhendy--portofolio.vercel.app-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rhendy-portofolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-RedEye1605-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RedEye1605)
+
 </div>
 
+---
 
-###
+### 🧑‍💻 About Me
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; margin-top: 20px;">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+- 🎓 Information Systems @ Brawijaya University (GPA 3.82/4.00)
+- 💼 AI/ML Engineer Intern @ PT XLSmart Telecom Sejahtera Tbk.
+- 🏆 Competition finalist: Arkavidia 10.0 ITB, Hology 8.0 UB, Compfest Academy UI
+- 🔬 Head of R&D @ KRISMA | Data Scientist @ BCC
+- 🛠️ Creator of [Leksara](https://github.com/RedEye1605/Leksara) — Indonesian text preprocessing toolkit
+- 📍 Malang, Indonesia
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-1A7DC4?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
 </div>
 
-###
+---
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=RedEye1605&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RedEye1605&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph" />
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### [Leksara](https://github.com/RedEye1605/Leksara)
+🇮🇩 Indonesian text preprocessing toolkit for E-commerce data. Automates punctuation removal, stopword filtering, and slang normalization. Built for Data Scientists & ML Engineers.
+
+</td>
+<td width="50%">
+
+#### [Task Router](https://github.com/RedEye1605/task-router)
+🎯 Unified task ingestion & prioritization engine. Consolidates tasks from Gmail, Calendar, Notion, and messaging into a single priority queue with smart scoring.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [CrowdCounting](https://github.com/RedEye1605/CrowdCounting)
+👥 AI-powered crowd counting with P2PNet (VGG16 backbone). Includes Web UI, Gradio demo, Docker deployment, and fine-tuned head localization.
+
+</td>
+<td width="50%">
+
+#### [Comp Starter](https://github.com/RedEye1605/comp-starter)
+🏆 One-command competition scaffold generator. Sets up data dirs, EDA notebooks, baseline models, and submission pipeline in seconds. Supports datathon, Kaggle, hackathon templates.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### [Knowledge Forge](https://github.com/RedEye1605/knowledge-forge)
+📖 Personal knowledge retention engine with spaced repetition (SM-2). Import from arXiv, Obsidian. Full-text search, review scheduling, and knowledge graph.
+
+</td>
+<td width="50%">
+
+#### [Presence Greeter](https://github.com/RedEye1605/presence-greeter)
+👤 Privacy-first face recognition for Linux. Liveness check, auto-lock/unlock, GPU-accelerated (PyTorch+CUDA). Built for Fedora KDE Wayland.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RedEye1605&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RedEye1605&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&langs_count=8" height="170" alt="Top Languages" />
 </div>
 
-###
-
-<div align="center" style="display: flex; justify-content: center; gap: 15px;">
-  <img src="https://streak-stats.demolab.com?user=RedEye1605&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=RedEye1605&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=RedEye1605&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="180" alt="GitHub Streak" />
 </div>
 
-## My Contribution Graph
+---
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph.svg">
-</picture>
+### 🏆 Achievements & Competitions
+
+- 🥈 Finalist — Arkavidia 10.0 Datavidia ITB (2026)
+- 🏅 12th Place — Data Slayer 3.0 Telkom University (2025)
+- 🏅 Top 8 — Hology 8.0 UB Data Mining (2025)
+- 🏅 Top 20 — Compfest Academy UI (2024)
+
+---
+
+<div align="center">
+
+*"Learn, Build, Share, Repeat."* ⚡
+
+</div>
