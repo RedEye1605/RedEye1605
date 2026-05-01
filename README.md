@@ -195,7 +195,7 @@ Privacy-first face recognition for Linux. GPU-accelerated (CUDA), liveness check
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpdc/?username=RedEye1605&color=58a6ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RedEye1605.RedEye1605&left_text=Profile%20Views&left_color=0d1117&right_color=58a6ff" alt="Profile Views" />
 </div>
 
 <!-- Footer -->
